@@ -1,4 +1,4 @@
-# hamoye-stage-b-2023
+# **Appliances Energy Prediction: Model Training and Analysis** 
 
 
 The dataset for this quiz is the Appliances Energy Prediction data from https://archive.ics.uci.edu/ml/machine-learning-databases/00374.
@@ -7,7 +7,7 @@ It can also be accessed from https://drive.google.com/file/d/1Eru_UHVc3WLHVveC9Q
 
 The code attached to it is my solution to the quiz. The dataset is also provided for direct download.
 
-# **Appliances Energy Prediction: Model Training and Analysis**  
+ 
 
 ## **Overview**  
 Energy consumption prediction is essential for optimizing appliance usage, reducing costs, and improving energy efficiency. This project focuses on predicting **appliance energy consumption** using multiple regression models. The dataset was preprocessed, and different models were trained to evaluate performance based on various metrics.  
